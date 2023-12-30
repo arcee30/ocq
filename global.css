@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-abhaya-libre: "Abhaya Libre";
+
+  /* font sizes */
+  --font-size-6xl: 16px;
+  --font-size-11xl: 28px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gold: #ffcd0c;
+}
